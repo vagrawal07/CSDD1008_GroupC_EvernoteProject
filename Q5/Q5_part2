@@ -1,0 +1,61 @@
+Question 5. You own a software company that supports audits done by civil and mechanical engineers. The software has originally been sold to private and municipal organizations that monitor buildings and infrastructure (bridges, roads, etc). You would like to integrate Evernote into your product. The hope is that Evernote will provide improved note-taking and appointment functionality.
+Set up your JIRA project created in step 4 to assist with this change. Ensure that your project follows conventions found in the text.
+You should do the following: develop a sample persona, at least two scenarios and associated user stories for your potential product.
+* Backlog. Create a list of items that should be tackled. At this point, there is no need to include implementation items.
+* Sprint. Use the backlog to create your first sprint. 
+
+
+Answer:
+Scenario 2: Readily accessible on any device and appointment management
+
+
+Merry is a civil engineer at ABC Infra Solutions who is tasked with inspection of bridges in the city. This requires her to travel to various sites for work. She is married and has two children, both of whom go to school. This makes managing personal and professional life challenging since she needs to travel to different destinations in the city for work. Keeping track of all her appointments is a task that needs simplification. There is a need for in-app and email reminders to make sure she does not miss any scheduled appointments. In addition, she needs to check off appointments that are done or reschedule if there are complications. Notifications for deadlines is another feature that would make Merry’s work easier. 
+Most times she carries her laptop to the inspections for note making but it is not feasible for some of the locations which means she has to make do with her mobile phone. Sometimes she also needs to quickly jot down points or scan things, regarding inspections for later reference, which are difficult to keep organised and thus possess as a challenge when making the final report. So a feature that enables linking these notes and scans to the respective appointment would be a great help for her work. 
+
+
+
+
+Backlog
+1. Integrate Evernote into ABC Infra Solutions platform in a way that it allows users to use it on any digital device.
+2. Integrate Note-Taking feature of Evernote into ABC Infra Solutions platform. Implement capturing text, image, video and audio on the platform itself.
+3. Add a feature to allow uploading media onto the platform.
+4. Enable linking of captured text, image, video and audio note into related Evernote notebook.
+5. Allow editing and deleting Evernote notebook.
+6. Develop a feature that allows reorganising media in Evernote notebook.
+7. Integrate Evernote calendar into ABC Infra Solutions platform. 
+8. Design widget to view list of upcoming appointments. 
+9. Enable appointment creation feature.
+10.  Enable appointment editing and deletion features.
+11.  Add features for in-app and email notifications.
+12.  Implement a feature that reminds the user of upcoming appointments.
+
+(The part ahead is a collaborative effort by Disha Sharma, 500234080 and Sachin Dhamija, 500223167)
+
+First Sprint
+Sprint Goal: Implement basic Evernote integration for note-taking and ensure initial syncing functionality.
+Sprint Duration: 1 week
+Sprint Backlog:
+1. Integrate Evernote to allow users to use it on any digital device
+   * Task: Integrate Evernote into ABC Infra Solutions platform in a way that it allows users to use it on any digital device.
+   * Assignee: Dev Team Member 1
+   * Estimated Time: 1 day
+2. Integrate Note-Taking feature
+   * Task: Integrate Note-Taking feature of Evernote into ABC Infra Solutions platform. Implement capturing text, image, video and audio on the platform itself.
+   * Assignee: Dev Team Member 2
+   * Estimated Time: 2 days
+3. Implement feature to allow uploading media
+   * Task: Add a feature to allow uploading media onto the platform.
+   * Assignee: Dev Team Member 1
+   * Estimated Time: 1 day
+4. Enable linking of captured media
+   * Task: Enable linking of captured text, image, video and audio note into related Evernote notebook.
+   * Assignee: Dev Team Member 1
+   * Estimated Time: 1 day
+5. Develop editing and deleting notebook
+   * Task: Allow editing and deleting Evernote notebook.
+   * Assignee: Dev Team Member 1
+   * Estimated Time: 1 day
+6. Develop reorganising media feature
+   * Task: Allow reorganising media feature in Evernote notebook.
+   * Assignee: Dev Team Member 2 
+   * Estimated Time: 1 day
